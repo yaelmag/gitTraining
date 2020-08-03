@@ -1,3 +1,3 @@
-***PRACTICE ON GIT COMMANDS***
+///PRACTICE ON GIT COMMANDS///
 
 vagrant challenge(s)
